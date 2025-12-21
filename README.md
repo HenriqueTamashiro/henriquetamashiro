@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Fullstack Developer<br>- Degree in Systems Analysis and Development of Systems<br>-My first experience with coding was in an IT course when I was 16 years old.<br>🎲 Fun fact: Coding is like space — it never ends and is always expanding.</p>
+<p align="left">- Fullstack Developer<br>- Degree in Systems Analysis and Development of Systems<br>-My first experience with coding was in an IT course when I was 16 years old.<br>🎲 Fun fact: Coding is like space — it never ends because it’s always expanding.</p>
 
 ###
 
