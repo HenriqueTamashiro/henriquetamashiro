@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'am Henrique Tamashiro, 29 years old, Fullstack Developer from São Paulo, Brazil.</p>
+<p align="left">I'am Henrique Tamashiro, 29 years old, Full Stack Developer from São Paulo, Brazil.</p>
 
 ###
 
