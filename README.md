@@ -20,7 +20,8 @@
 
 <h3 align="left">Frameworks</h3>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"  height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" />
+          
           
 
 ###
