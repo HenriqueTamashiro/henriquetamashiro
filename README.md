@@ -1,54 +1,97 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">I'am Henrique Tamashiro, 29 years old, Full Stack Developer from São Paulo, Brazil.</p>
-
-###
+<p align="left">
+  I'm Henrique Tamashiro, a 29-year-old Full-Stack Developer from São Paulo, Brazil.
+</p>
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+  👨‍💻 Full-Stack Developer<br>
+  🎓 Degree in Systems Analysis and Development<br>
+  🚀 My first experience with coding was during an IT course when I was 16 years old.<br>
+  🎲 Fun fact: Coding is like space — it never ends because it’s always expanding.
+</p>
 
-<p align="left">- Fullstack Developer<br>- Degree in Systems Analysis and Development of Systems<br>-My first experience with coding was in an IT course when I was 16 years old.<br>🎲 Fun fact: Coding is like space — it never ends because it’s always expanding.</p>
+<h2 align="left">🛠️ Technologies</h2>
 
-###
-
-<h2 align="left">Working with</h2>
-
-###
-
-<h2 align="left">Frameworks</h2>
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nest logo"  />
-</div>
-
-###
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
+<table>
+<tr>
+<td align="center" width="280">
+<h3>Frameworks</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="42" alt="NestJS" title="NestJS">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" title="Tailwind CSS">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42" alt="Bootstrap" title="Bootstrap">
+<br><br>
+<sub>NestJS • Tailwind CSS • Bootstrap</sub>
+</td>
+<td align="center" width="280">
+<h3>Libraries</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React" title="React">
+<br><br>
+<sub>React</sub>
+</td>
+<td align="center" width="280">
+<h3>ORMs</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="42" alt="Sequelize" title="Sequelize">
+<br><br>
+<sub>Sequelize</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="280">
+<h3>Databases</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL">
+<br><br>
+<sub>MySQL</sub>
+</td>
+<td align="center" width="280">
+<h3>Languages &amp; Markup</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="42" alt="HTML5" title="HTML5">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="42" alt="CSS3" title="CSS3">
+<br><br>
+<sub>JavaScript • TypeScript • HTML5 • CSS3</sub>
+</td>
+<td align="center" width="280">
+<h3>Runtime &amp; Packages</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="42" alt="npm" title="npm">
+<br><br>
+<sub>Node.js • npm</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="280">
+<h3>Infrastructure</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="42" alt="NGINX" title="NGINX">
+<br><br>
+<sub>Docker • NGINX</sub>
+</td>
+<td align="center" width="280">
+<h3>🔧 Development Tools</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git">
+&nbsp;            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="42" alt="Insomnia" title="Insomnia">
+<br><br>
+<sub>Git • GitHub • Insomnia</sub>
+</td>
+<td align="center" width="280">
+<h3>Backend Development</h3>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+<br><br>
+<sub>API Design • HTTP • JSON</sub>
+</td>
+</tr>
+</table>
