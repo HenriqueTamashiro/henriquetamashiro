@@ -36,16 +36,20 @@
 <td align="center" width="280">
 <h3>ORMs</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="42" alt="Sequelize" title="Sequelize">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="42" alt="Prisma" title="Prisma">
 <br><br>
-<sub>Sequelize</sub>
+<sub>Sequelize • Prisma</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="280">
 <h3>Databases</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL">
 <br><br>
-<sub>MySQL</sub>
+<sub>MySQL • PostgreSQL</sub>
 </td>
 <td align="center" width="280">
 <h3>Languages &amp; Markup</h3>
@@ -94,4 +98,12 @@
 <sub>API Design • HTTP • JSON</sub>
 </td>
 </tr>
+  <td align="center" width="280">
+<h3>Cloud Platforms</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="Amazon Web Services" title="Amazon Web Services">       
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="32" alt="Google Cloud Platform" title="Google Cloud Platform">
+<br><br>
+<sub>AWS • Google Cloud Platform</sub>
+</td>
 </table>
