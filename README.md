@@ -78,7 +78,7 @@
 <sub>Docker • NGINX</sub>
 </td>
 <td align="center" width="280">
-<h3>🔧 Development Tools</h3>
+<h3>Development Tools</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git">
 &nbsp;            
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
