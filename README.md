@@ -18,9 +18,9 @@
 
 ###
 
-<h3 align="left">Frameworks with</h3>
+<h3 align="left">Frameworks</h3>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"  height="40" />
           
 
 ###
