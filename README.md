@@ -10,7 +10,7 @@
   👨‍💻 Full-Stack Developer<br>
   🎓 Degree in Systems Analysis and Development<br>
   🚀 My first experience with coding was during an IT course when I was 16 years old.<br>
-  🎲 Fun fact: Coding is like space — it never ends because it’s always expanding.
+  🎲 Fun fact: Development is like space — it never ends because it’s always expanding.
 </p>
 
 <h2 align="left">🛠️ Technologies</h2>
